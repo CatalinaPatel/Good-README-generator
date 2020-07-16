@@ -1,0 +1,24 @@
+{
+  "name": "Good-README-generator",
+  "version": "1.0.0",
+  "description": "Node.js and ES6+",
+  "main": "index.js",
+  "dependencies": {
+    "inquirer": "^7.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CatalinaPatel/Good-README-generator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CatalinaPatel/Good-README-generator/issues"
+  },
+  "homepage": "https://github.com/CatalinaPatel/Good-README-generator#readme"
+}
