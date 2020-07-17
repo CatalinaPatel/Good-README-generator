@@ -7,53 +7,52 @@ const questions = [
     {
         type: "input",
         name: "title",
-        message: "Enter project title"
+        message: "Please enter your project's title"
     },
-
     {
         type: "input",
         name: "description",
-        message: "Enter project description"
+        message: "Please enter your project's description"
     },
     {
         type: "input",
         name: "installation",
-        message: "Enter installation instructions"
+        message: "Please enter your project's step by step installation instructions"
     },
     {
         type: "input",
         name: "usage",
-        message: "Explain project usage"
-    },
-    {
-        type: "input",
-        name: "licence",
-        message: "Please provide the project licence or your badge link"
-    },
-    {
-        type: "input",
-        name: "contributing",
-        message: "Enter contributing partners"
+        message: "Please enter your project's usage instructions and examples"
     },
     {
         type: "input",
         name: "license",
-        message: "Select license"
+        message: "Please enter license information"
+    },
+    {
+        type: "input",
+        name: "contributing",
+        message: "Please enter contributing developer's information"
     },
     {
         type: "input",
         name: "test",
-        message: "Enter the project tests"
+        message: "Please enter test instructions and examples"
     },
     {
         type: "input",
         name: "username",
-        message: "Enter your github user name?"
+        message: "Please enter your Github user name and repository link"
     },
     {
         type: "input",
         name: "email",
-        message: "Enter your email"
+        message: "Please enter your email"
+    },
+    {
+        type: "input",
+        name: "credits",
+        message: "Please enter your creditsto collaborators orthird party assests"
     },
 ];
 
@@ -75,8 +74,6 @@ inquirer
                 if (err) {
                     throw err;
                 };
-
-                console.log("New README file created with success!");
             });
         });
 
