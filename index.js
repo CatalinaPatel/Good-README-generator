@@ -52,7 +52,7 @@ const questions = [
     {
         type: "input",
         name: "credits",
-        message: "Please enter your creditsto collaborators or third parties "
+        message: "Please enter your credits to collaborators or third parties "
     },
 ];
 

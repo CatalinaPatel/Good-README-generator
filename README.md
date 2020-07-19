@@ -1,10 +1,10 @@
 
 
-# **Homework**
+# **Good README generator**
 undefined
 
 ## Description 
-Homework 9
+UNC Coding Bootcamp
 
 ## Table of contents
 - [Description](#Description)
@@ -17,19 +17,19 @@ Homework 9
 - [email](#Email)
 - [Credits] (#Credits)
 ## Installation
-        Open terminal, locate folder
+        Answer all questions
 ## Usage
-Answer all of the questions
+Open terminal and follow instructions
 ## Licence
 undefined
 ## Contributors
-Jaime
+N/A
 ## Test
-h
+View Github
 ## Repository
 - [Project Repo](undefined)
 ## GitHub
-![Image of me](https://avatars0.githubusercontent.com/u/3854874?v=4)
-- Samuel Hoffstaetter
-- [GitHub Profile](https://github.com/h)
+![Image of me](https://avatars2.githubusercontent.com/u/64928084?v=4)
+- Catalina Patel
+- [GitHub Profile](https://github.com/CatalinaPatel)
 - <null>
