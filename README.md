@@ -23,13 +23,10 @@ Answer all of the questions
 ## Licence
 undefined
 ## Contributors
-Jaime
+N/A
 ## Test
-h
+Catalina-Patel
 ## Repository
 - [Project Repo](undefined)
 ## GitHub
-![Image of me](https://avatars0.githubusercontent.com/u/3854874?v=4)
-- Samuel Hoffstaetter
-- [GitHub Profile](https://github.com/h)
-- <null>
+https://github.com/CatalinaPatel/Good-README-generator/edit/master/README.md
