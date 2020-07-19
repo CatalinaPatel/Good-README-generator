@@ -1,7 +1,7 @@
 
 
 # **Homework**
-undefined
+UNC Coding Bootcamp
 
 ## Description 
 Homework 9
@@ -21,7 +21,7 @@ Homework 9
 ## Usage
 Answer all of the questions
 ## Licence
-undefined
+N/A
 ## Contributors
 N/A
 ## Test
