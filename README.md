@@ -1,7 +1,7 @@
 
 
 # **Good README generator**
-undefined
+Good README generator
 
 ## Description 
 UNC Coding Bootcamp
@@ -30,6 +30,6 @@ View Github
 - [Project Repo](undefined)
 ## GitHub
 ![Image of me](https://avatars2.githubusercontent.com/u/64928084?v=4)
-- Catalina Patel
+- CatalinaPatel
 - [GitHub Profile](https://github.com/CatalinaPatel)
 - <null>
