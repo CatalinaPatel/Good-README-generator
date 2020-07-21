@@ -1,6 +1,6 @@
 
 # **Homework**
-UNC Coding Bootcamp
+UNC Coding Bootcamp Good README generator
 
 ## Description 
 Homework 9
@@ -16,16 +16,15 @@ Homework 9
 - [email](#Email)
 - [Credits] (#Credits)
 ## Installation
-        3
+Answer all questions regarding your project
 ## Usage
-4
+Open terminal and follow instructions
 ## Licence
 N/A
 ## Contributors
 N/A
 ## Test
-![Preview](https://github.com/CatalinaPatel/Good-README-generator/blob/master/videos/test.mp4?raw=true)
-
+![README Generator Demo](videos/test.mp4)
 ## Repository
 - [Project Repo](undefined)
 ## GitHub
