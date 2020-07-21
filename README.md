@@ -1,10 +1,10 @@
 
 
-# **Good README generator**
-Good README generator
+# **Homework**
+undefined
 
 ## Description 
-UNC Coding Bootcamp
+2
 
 ## Table of contents
 - [Description](#Description)
@@ -17,19 +17,19 @@ UNC Coding Bootcamp
 - [email](#Email)
 - [Credits] (#Credits)
 ## Installation
-        Answer all questions
+        3
 ## Usage
-Open terminal and follow instructions
+4
 ## Licence
 undefined
 ## Contributors
-N/A
+6
 ## Test
-View Github
+7
 ## Repository
 - [Project Repo](undefined)
 ## GitHub
-![Image of me](https://avatars2.githubusercontent.com/u/64928084?v=4)
-- CatalinaPatel
-- [GitHub Profile](https://github.com/CatalinaPatel)
+![Image of me](https://avatars1.githubusercontent.com/u/278500?v=4)
+- null
+- [GitHub Profile](https://github.com/8)
 - <null>
