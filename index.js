@@ -70,7 +70,7 @@ inquirer
                 name: res.data.name
             };
 
-            fs.writeFile("README.md", generate(data, githubInfo), function (err) {
+            fs.writeFile("Readme.md", generate(data, githubInfo), function (err) {
                 if (err) {
                     throw err;
                 };
