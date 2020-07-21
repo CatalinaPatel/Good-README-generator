@@ -1,7 +1,7 @@
 
 
 # **Homework**
-undefined
+UNC Coding Bootcamp
 
 ## Description 
 2
@@ -21,15 +21,12 @@ undefined
 ## Usage
 4
 ## Licence
-undefined
+N/A
 ## Contributors
-6
+N/A
 ## Test
-7
+Catalina-Patel
 ## Repository
 - [Project Repo](undefined)
 ## GitHub
-![Image of me](https://avatars1.githubusercontent.com/u/278500?v=4)
-- null
-- [GitHub Profile](https://github.com/8)
-- <null>
+https://github.com/CatalinaPatel/Good-README-generator/edit/master/README.md
