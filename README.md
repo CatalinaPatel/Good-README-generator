@@ -24,7 +24,7 @@ N/A
 ## Contributors
 N/A
 ## Test
-![README Generator Demo](videos/test.mp4)
+![README Generator Demo](videos/test.gif)
 ## Repository
 - [Project Repo](undefined)
 ## GitHub
