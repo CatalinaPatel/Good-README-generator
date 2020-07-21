@@ -24,7 +24,8 @@ N/A
 ## Contributors
 N/A
 ## Test
-https://drive.google.com/file/d/12cgsf8f7N42Sc36Sg3J7yrvZgkUVeE1q/view
+(https://github.com/CatalinaPatel/Good-README-generator/blob/master/videos/test.mp4?raw=true)
+
 ## Repository
 - [Project Repo](undefined)
 ## GitHub
