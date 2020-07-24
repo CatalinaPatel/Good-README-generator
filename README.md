@@ -17,7 +17,7 @@ UNC Coding Bootcamp Project 9 ES6+ and Node.js
 - [email](#Email)
 - [Credits] (#Credits)
 ## Installation
-        Open your terminal, access folder, answer questions
+Open your terminal, access folder, answer questions
 ## Usage
 Create a good and complete REAME for your projects
 ## Licence
@@ -25,10 +25,9 @@ undefined
 ## Contributors
 N/A
 ## Test
-Follow all instructions and open your README file
-![README Generator Demo](videos/Test.webm)
-## Repository
-- [Project Repo](undefined)
+Follow all instructions and open your README file to test
+![README Generator Demo](videos/test.gif)
+- [Project Repo](https://github.com/CatalinaPatel/Good-README-generator)
 ## GitHub
 ![Image of me](https://avatars2.githubusercontent.com/u/64928084?v=4)
 - Catalina Patel
