@@ -1,9 +1,10 @@
 
-# **Homework**
-UNC Coding Bootcamp Good README generator
+
+# **Good README Generator**
+undefined
 
 ## Description 
-Homework 9
+UNC Coding Bootcamp Project 9 ES6+ and Node.js
 
 ## Table of contents
 - [Description](#Description)
@@ -16,16 +17,19 @@ Homework 9
 - [email](#Email)
 - [Credits] (#Credits)
 ## Installation
-Answer all questions regarding your project
+        Open your terminal, access folder, answer questions
 ## Usage
-Open terminal and follow instructions
+Create a good and complete REAME for your projects
 ## Licence
-N/A
+undefined
 ## Contributors
 N/A
 ## Test
-![README Generator Demo](videos/test.gif)
+Follow all instructions and open your README file
 ## Repository
 - [Project Repo](undefined)
 ## GitHub
-https://github.com/CatalinaPatel/Good-README-generator/edit/master/README.md
+![Image of me](https://avatars2.githubusercontent.com/u/64928084?v=4)
+- Catalina Patel
+- [GitHub Profile](https://github.com/CatalinaPatel)
+- <null>
